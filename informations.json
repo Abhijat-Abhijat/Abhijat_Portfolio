@@ -1,0 +1,70 @@
+{
+    "name": "Abhijat",
+    "position": "Full Stack Developer",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id donec ultrices tincidunt arcu. Massa enim nec dui nunc. Sit amet est placerat in egestas erat imperdiet. Eget nunc lobortis mattis aliquam faucibus. Integer feugiat scelerisque varius morbi enim nunc. Et tortor at risus viverra.",
+    "experience": [
+        {
+            "companyName": "Google",
+            "duration": "2018 - Present",
+            "primaryRole": "Software Engineer",
+            "role": "Full Stack Developer",
+            "broaderRole": "Engineer",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id donec ultrices tincidunt arcu. Massa enim nec dui nunc. Sit amet est placerat in egestas erat imperdiet. Eget nunc lobortis mattis aliquam faucibus. Integer feugiat scelerisque varius morbi enim nunc. Et tortor at risus viverra.",
+            "technologiesUsed": [
+                "Java",
+                "Python",
+                "Nuke",
+                "Mari",
+                "Shotgun",
+                "Deadline"
+            ],
+            "link": "https://www.google.com"
+        },
+        {
+            "companyName": "Google",
+            "duration": "2018 - 2020",
+            "primaryRole": "Software Engineer",
+            "role": "Full Stack Developer",
+            "broaderRole": "Engineer",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id donec ultrices tincidunt arcu. Massa enim nec dui nunc. Sit amet est placerat in egestas erat imperdiet. Eget nunc lobortis mattis aliquam faucibus. Integer feugiat scelerisque varius morbi enim nunc. Et tortor at risus viverra.",
+            "technologiesUsed": [
+                "Java",
+                "Python",
+                "C++",
+                "Javascript",
+                "React",
+                "Angular",
+                "NodeJS",
+                "MongoDB"
+            ],
+            "link": "https://www.google.com"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Project 1",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id donec ultrices tincidunt arcu. Massa enim nec dui nunc. Sit amet est placerat in egestas erat imperdiet. Eget nunc lobortis mattis aliquam faucibus. Integer feugiat scelerisque varius morbi enim nunc. Et tortor at risus viverra.",
+            "technologiesUsed": [
+                "Java",
+                "Python",
+                "C++",
+                "Javascript",
+                "React",
+                "Angular",
+                "NodeJS",
+                "MongoDB"
+            ],
+            "links": [
+                {
+                    "name": "Github",
+                    "url": "https://www.google.com"
+                },
+                {
+                    "name": "Website",
+                    "url": "https://www.google.com"
+                }
+            ],
+            "images": "https://www.google.com"
+        }
+    ]
+}

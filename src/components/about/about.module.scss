@@ -1,0 +1,13 @@
+.aboutme {
+    color: rgba(203, 213, 225, .75);
+    letter-spacing: 0.05em;
+    text-align: start;
+    a{
+        color: rgb(226 232 240);
+        text-decoration: none;
+        font-weight: 500;
+        &:hover {
+            color: rgb(94 234 212);
+        }
+    }
+}

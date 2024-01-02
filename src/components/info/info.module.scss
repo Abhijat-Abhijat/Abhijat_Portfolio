@@ -1,0 +1,36 @@
+.info {
+    width: 25vw;
+    display: flex;
+    overflow: hidden;
+    text-align: start;
+    margin-left: 40px;
+    align-items: start;
+    padding: 20px;
+    flex-direction: column
+}
+
+.position {
+    margin: 0;
+    padding: 10px 0;
+    font-weight: 400;
+    letter-spacing: 0;
+    text-align: justify;
+    color: rgba(203, 213, 225, .75)
+}
+
+.name,
+.subheading {
+    color: rgb(226 232 240)
+}
+
+.name {
+    margin: 0;
+    padding: 0;
+    font-size: 5rem;
+    font-weight: 700
+}
+
+.subheading {
+    font-weight: 500;
+    font-size: 1.5rem
+}

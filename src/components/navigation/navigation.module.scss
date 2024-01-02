@@ -1,0 +1,47 @@
+.navigation {
+    padding-left: 30px;
+    ul {
+        display: flex;
+        flex-direction: column;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        li {
+            margin: 0 2rem;
+            text-align: left;
+            padding: 10px 0;
+            a {
+                color: rgba(203, 213, 225, .75);
+                text-decoration: none;
+                display: flex;
+                align-items: center;
+                gap: 1rem;
+                cursor: none;
+                &:hover {
+                    color: rgb(226 232 240);
+                    .indicator {
+                        background-color: rgb(226 232 240);
+                        width: 100px;
+                        height: 2px;
+                        transition: 0.7s;
+                    }
+                }
+                .indicator {
+                    background-color: rgba(203, 213, 225, .75);
+                    height: 1px;
+                    width: 50px;
+                    transition: 0.7s;
+                }
+                font-weight:300;
+            }
+            .active {
+                color: rgb(226 232 240);
+                .indicator {
+                    background-color: rgb(226 232 240);
+                    width: 100px;
+                    height: 2px;
+                }
+            }
+        }
+    }
+}
